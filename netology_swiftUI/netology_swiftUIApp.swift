@@ -11,7 +11,7 @@ import SwiftUI
 struct netology_swiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyTabView()
         }
     }
 }
